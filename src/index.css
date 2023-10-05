@@ -157,3 +157,6 @@ transform: translateY(300px);
 .heartstat:active{
     color: red;
 }
+.base{
+    margin-top: 130px;
+}
