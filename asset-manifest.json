@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/proj-react-app1/static/css/main.e8b989c5.css",
+    "main.css": "/proj-react-app1/static/css/main.a42be4f7.css",
     "main.js": "/proj-react-app1/static/js/main.f233b19f.js",
     "static/js/787.068b3057.chunk.js": "/proj-react-app1/static/js/787.068b3057.chunk.js",
     "static/media/fa-solid-900.ttf": "/proj-react-app1/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
@@ -15,12 +15,12 @@
     "static/media/fa-v4compatibility.ttf": "/proj-react-app1/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/proj-react-app1/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/proj-react-app1/index.html",
-    "main.e8b989c5.css.map": "/proj-react-app1/static/css/main.e8b989c5.css.map",
+    "main.a42be4f7.css.map": "/proj-react-app1/static/css/main.a42be4f7.css.map",
     "main.f233b19f.js.map": "/proj-react-app1/static/js/main.f233b19f.js.map",
     "787.068b3057.chunk.js.map": "/proj-react-app1/static/js/787.068b3057.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8b989c5.css",
+    "static/css/main.a42be4f7.css",
     "static/js/main.f233b19f.js"
   ]
 }
