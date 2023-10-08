@@ -16,6 +16,7 @@ import CheckOut from './CheckOut/CheckOut'
 import Brand from './Brand/Brand'
 import Categry from './Category/Categry'
 import WishList from './WishList/WishList'
+import { Offline } from 'react-detect-offline'
 
 export default function App() {
 let [userData, sedtUserDAta]= useState(null)
@@ -74,6 +75,9 @@ function Logout(){
   ])
   return <>
 <CartContextProvider>
+<div className='network'>
+<Offline>You're offline right now. Check your connection.</Offline>
+</div>
 <RouterProvider router={routes} />
 
 </CartContextProvider>

@@ -119,7 +119,7 @@ function search(e){
             <button onClick={() => addCartData(product._id)} className='btn  my-2 d-block w-75 addcart'>+ add 
        
               </button>
-          <i className="fa-solid fa-heart fs-5 heart"  onClick={() => addWishListData(product._id)}></i>
+         <i  className="fa-solid fa-heart fs-5 heart"  onClick={() => addWishListData(product._id)}></i>
             </div>
 
 

@@ -36,8 +36,8 @@ setCartCount(data.numOfCartItems)
 async function UpdateCount(id,count){
 let {data} = await  UpdateProduct(id,count)
 console.log(data);
-
 setCartData(data.data)
+
 }
 
 
@@ -98,10 +98,16 @@ setCartData(data.data)
   
 
 
-<button onClick={()=>UpdateCount(el.product._id , el.count + 1 )}   _ngcontent-txy-c24="" class="btn btn-count btn-md">+</button>
+<button onClick={()=>UpdateCount(el.product._id , el.count + 1 )}   _ngcontent-txy-c24="" className="btn btn-count cursor-pointer btn-md">+</button>
 
-<span className="mx-2">{el.count} </span>
-<button  disabled={el.count== 0} onClick={()=>UpdateCount(el.product._id , el.count - 1 )}   _ngcontent-txy-c24="" class="btn btn-count btn-md">-</button>
+<span className="mx-2">{el.count}</span>
+
+
+
+{el.count  <= 1 ? <button onClick={()=>DeleteProduct(el.product._id )}   _ngcontent-txy-c24="" 
+  className="btn cursor-pointer btn-count btn-md">-</button>:<button onClick={()=>UpdateCount(el.product._id , el.count - 1 )}   _ngcontent-txy-c24="" 
+  className="btn cursor-pointer btn-count btn-md">-</button>  }
+
 </div>
 
  </div>

@@ -97,9 +97,7 @@ border-radius: 50%;
 .immgg{
     height: 300px;
 }
-.heart:active{
-color: red !important;
-}
+
 .btn-outline-success:hover{
 background-color: transparent;
 }
@@ -154,9 +152,13 @@ transform: translateY(300px);
     margin-top: 70px;
     margin-left: 20%;
 }
-.heartstat:active{
-    color: red;
-}
+
 .base{
     margin-top: 130px;
+}
+.network{
+    z-index: 985;
+}
+.heart:active{
+color: red;
 }
