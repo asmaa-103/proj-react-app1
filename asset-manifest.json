@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/proj-react-app1/static/css/main.a42be4f7.css",
-    "main.js": "/proj-react-app1/static/js/main.f233b19f.js",
+    "main.css": "/proj-react-app1/static/css/main.70512b4b.css",
+    "main.js": "/proj-react-app1/static/js/main.7318caeb.js",
     "static/js/787.068b3057.chunk.js": "/proj-react-app1/static/js/787.068b3057.chunk.js",
     "static/media/fa-solid-900.ttf": "/proj-react-app1/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/proj-react-app1/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
@@ -15,12 +15,12 @@
     "static/media/fa-v4compatibility.ttf": "/proj-react-app1/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/proj-react-app1/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/proj-react-app1/index.html",
-    "main.a42be4f7.css.map": "/proj-react-app1/static/css/main.a42be4f7.css.map",
-    "main.f233b19f.js.map": "/proj-react-app1/static/js/main.f233b19f.js.map",
+    "main.70512b4b.css.map": "/proj-react-app1/static/css/main.70512b4b.css.map",
+    "main.7318caeb.js.map": "/proj-react-app1/static/js/main.7318caeb.js.map",
     "787.068b3057.chunk.js.map": "/proj-react-app1/static/js/787.068b3057.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a42be4f7.css",
-    "static/js/main.f233b19f.js"
+    "static/css/main.70512b4b.css",
+    "static/js/main.7318caeb.js"
   ]
 }
